@@ -2,6 +2,6 @@
 <div align="left" style="margin-bottom: 0;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000000000000000&color=2CC02C&random=false&width=435&lines=Android+developer" alt="Typing SVG" />
 </div>
-<div align="left" style="margin-top: -1%;"">
+<div align="left" style="margin-top: -10%;"">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100000000000&color=FAFDFE&random=false&width=800&lines=I+am+a+student+and+android+developer"alt="Typing SVG"/>
 </div>
