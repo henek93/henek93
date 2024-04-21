@@ -14,7 +14,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100000000000&color=FAFDFE&random=false&width=800&lines=My+technology+stack:"alt="Typing SVG"/>
 </div>
 <ul>
-  <li>
-    Android studio<
-  </li>
+  <li>Android studio<img src="android_studio.svg" width=40 height=28/></li>
+  <li>Kotlin<img src="kotlin.svg" width=40 height=28/></li>
 </ul>
