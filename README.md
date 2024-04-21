@@ -14,18 +14,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100000000000&color=FAFDFE&random=false&width=800&lines=My+technology+stack:"alt="Typing SVG"/>
 </div>
 
-<p>Languages and tools</p>
+<p >Languages and tools:</p>
 <p>
-  <img align="center" src="android_studio" alt="daniilshat" height="40" width="40" />
+  <img align="center" src="icons/android_studio.svg" height="45" width="45" />
+  <img align="center" src="icons/kotlin.svg" height="45" width="45" />
+  <img align="center" src="icons/java.svg" height="45" width="45" />
+  <img align="center" src="icons/rx.svg" height="45" width="45" />
+  <img align="center" src="icons/json.svg" height="45" width="45" />
 </p>
-<p>1) Android studio<img src="android_studio.svg" width=40 height=25/></p>
-<p>2) Kotlin<img src="kotlin.svg" width=40 height=25/></p>
-<p>3) Java<img src="kotlin.svg" width=40 height=28/></p>
-<p>4) Coroutine<img src="kotlin.svg" width=40 height=28/></p>
-<p>3) RxJava3<img src="kotlin.svg" width=40 height=28/></p>
-<p>3) Dagger2<img src="kotlin.svg" width=40 height=28/></p>
-<p>3) Git<img src="kotlin.svg" width=40 height=28/></p>
-<p>3) MVVM<img src="kotlin.svg" width=40 height=28/></p>
-<p>3) Room<img src="kotlin.svg" width=40 height=28/></p>
-<p>3) Java<img src="kotlin.svg" width=40 height=28/></p>
-
+<p>My technologes:</p>
+<p>1) Dagget 2</p>
+<p>2) Coroutine</p>
+<p>3) MVVM</p>
+<p>4) Room</p>
+<p>5) Retrofit</p>
+<p>6) Glide</p>
+<p>7) Clean archetecture</p>
+<p>8) Jetpack navigation + safe args</p>
+<p>9) XML</p>
