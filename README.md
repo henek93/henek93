@@ -1,34 +1,70 @@
-<img src="https://i.pinimg.com/originals/d7/c7/3e/d7c73e641ddeeabc221442d4f12914f3.gif" height="430"/>
-<div align="left" style="margin-bottom: 0;">
-  <a href="https://git.io/typing-svg" style="margin-bottom: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000000000000000&color=2CC02C&random=false&width=435&lines=Android+developer" alt="Typing SVG" />
-  </a>
-</div>
-<div align="left" style="margin-top: 50;">
-  <a href="https://git.io/typing-svg" style="margin-bottom: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100000000000&color=FAFDFE&random=false&width=800&lines=I+am+a+student+and+android+developer"alt="Typing SVG"/>
-  </a>
-</div>
-<div>
-  <a href="https://git.io/typing-svg" style="margin-bottom: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100000000000&color=FAFDFE&random=false&width=800&lines=My+technology+stack:"alt="Typing SVG"/>
+# 🌟 Привет, я Вячеслав Слудников!
+
+![Android Developer](https://img.shields.io/badge/Android%20Developer-3DDC84.svg?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p >Languages and tools:</p>
-<p>
-  <img align="center" src="icons/android_studio.svg" height="45" width="45" />
-  <img align="center" src="icons/kotlin.svg" height="45" width="45" />
-  <img align="center" src="icons/java.svg" height="45" width="45" />
-  <img align="center" src="icons/rx.svg" height="45" width="45" />
-  <img align="center" src="icons/json.svg" height="45" width="45" />
-</p>
-<p>My technologes:</p>
-<p>1) Dagget 2</p>
-<p>2) Coroutine</p>
-<p>3) MVVM</p>
-<p>4) Room</p>
-<p>5) Retrofit</p>
-<p>6) Glide</p>
-<p>7) Clean archetecture</p>
-<p>8) Jetpack navigation + safe args</p>
-<p>9) XML</p>
+---
+
+## 🌍 Обо мне
+
+- 🎓 **Образование**:  
+  - Казанский государственный энергетический университет (2022–2026, 3-й курс)  
+    - Прикладная математика (программное обеспечение систем ИИ)  
+    - Специальность: Программист и аналитик  
+  - Казанский государственный энергетический университет (2024–2026, 1-й курс)  
+    - Системное администрирование и защита информации  
+    - Специальность: Системный администратор и эксперт в защите информации  
+- 🌐 **Языки**: Русский (родной), Английский (Intermediate — чтение техдокументации, базовый разговорный).  
+
+---
+
+## 🛠 Технические навыки
+
+| Категория                | Навыки                                                                 |
+|--------------------------|----------------------------------------------------------------------|
+| **Языки**               | Kotlin (продвинутый), Java (средний), Python (базовый), Dart         |
+| **Android-разработка**  | Android SDK, Jetpack (Compose, Room, ViewModel, LiveData, Navigation), XML, ConstraintLayout, RecyclerView, ExoPlayer |
+| **Сеть и API**          | Retrofit, Gson, OkHttp, JSON                                        |
+| **Архитектура**         | Clean Architecture, MVVM, MVP, MVI (Decompose)                     |
+| **Инструменты DI**      | Dagger 2, Hilt                                                     |
+| **Многопоточность**     | Coroutines, RxJava                                                 |
+| **Базы данных**         | Room, SQLite, Firebase (Cloud Messaging, Analytics)                |
+| **Инструменты**         | Git, Gradle, Android Studio, Linux, Docker (базовый), GitHub Actions|
+| **Графика**             | Glide, Coil                                                        |
+| **Дополнительно**       | Flutter (базовый), CI/CD (GitHub Actions)                          |
+
+---
+
+## 🚀 Проекты
+
+### 🌤️ WeatherApp  
+**Стек**: Kotlin, MVI (Decompose), Retrofit, Coroutines, Dagger 2, Jetpack Compose, Room  
+**Описание**: Приложение для отображения текущей погоды и прогноза с интеграцией WeatherAPI. Поддерживает оффлайн-режим через Room, адаптивный UI с анимациями и управление списком избранных городов.  
+**GitHub**: [WeatherApp](https://github.com/henek93/WeatherApp)
+
+### 📱 VK-клиент  
+**Стек**: Kotlin, MVVM, Retrofit, Room, Jetpack Compose  
+**Описание**: Клиентская часть ВКонтакте с лентой новостей, комментариями и пагинацией. Адаптивный интерфейс и кэширование данных для работы оффлайн.  
+**GitHub**: [VkClient](https://github.com/henek93/VkClient)
+
+### 🎬 Кинопоиск-аналог  
+**Стек**: Kotlin, MVVM, Retrofit, Room, Dagger 2, Glide, XML, Jetpack Navigation  
+**Описание**: Приложение для поиска фильмов и сериалов с кэшированием данных в Room и навигацией через Jetpack Navigation.  
+**GitHub**: [MovieApp]([https://github.com/SludnikovSlava/MovieApp](https://github.com/henek93/MovieApp))
+
+### 🎥 VideoPlayerApp  
+**Стек**: Kotlin, MVVM, Jetpack Compose, ExoPlayer, Retrofit, Room, Dagger Hilt, Coil  
+**Описание**: Клиент видеоплатформы, аналогичный YouTube. Функции: список видео с пагинацией и pull-to-refresh, адаптивный интерфейс, воспроизведение видео с кэшированием (ExoPlayer), анимации переходов, обработка ошибок сети и shimmer-эффект. Интеграция с API Pexels.  
+**GitHub**: [VideoPlayerApp](https://github.com/henek93/VkTestAppVideoPlayer)
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d7/c7/3e/d7c73e641ddeeabc221442d4f12914f3.gif" height="300"/>
+</div>
