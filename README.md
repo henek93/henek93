@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Android+Developer+%7C+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=540&lines=Android+Developer+%7C+Flutter+Developer" alt="Typing SVG" />
 </div>
 
 ---
