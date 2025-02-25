@@ -1,4 +1,4 @@
-# 🌟 Привет, я Вячеслав Слудников!
+# 👋 Привет, я Вячеслав Слудников!
 
 ![Android Developer](https://img.shields.io/badge/Android%20Developer-3DDC84.svg?style=flat-square&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
